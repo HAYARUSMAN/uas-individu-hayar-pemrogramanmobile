@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UAS-individu</string>
+    <string name="negara_name">Nama Negara</string>
+    <string name="description">Deskripsi</string>
+</resources>
